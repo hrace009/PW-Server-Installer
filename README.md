@@ -21,4 +21,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://github.com/hrace009/PW-Server-Installer/blob/master/LICENSE)
 
 ## Link:
-Home Page: [hrace009 Personal Blog](https://youtube.com/hrace009)
+Home Page: [Youtube Channel](https://youtube.com/hrace009)
